@@ -1,0 +1,9 @@
+{
+    "files.watcherExclude": {
+        "./node_modules/*": true,
+        "**/.vscode/**": true,
+        "*/node_modules/*": true,
+        "fuck me": true,
+        "node_modules/*.*": true
+    }
+}

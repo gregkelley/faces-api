@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregkelley/faces-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gregkelley/faces-api/issues"
+  },
+  "homepage": "https://github.com/gregkelley/faces-api#readme"
 }
